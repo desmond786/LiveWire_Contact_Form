@@ -12,7 +12,7 @@ This Laravel project is a complete contact form system with:
 - Dummy data generation using Factory & Seeder
 - Easily extendable to mail sending, API calls, and more
 - Utilization of latest PHP 8+ features like constructor property promotion(App/Jobs/ProcessContactSubmission.php)
-note: i added laravel.log file , just scroll to bottom at the end there are capture logs containing third party api response
+- i added laravel.log file , just scroll to bottom at the end there are capture logs containing third party api response
 
 ---
 
