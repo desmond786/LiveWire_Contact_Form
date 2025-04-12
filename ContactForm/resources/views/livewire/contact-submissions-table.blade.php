@@ -18,6 +18,11 @@
 >
     Clear
 </button>
+    <a href="/contact">
+    <button style="margin-top: 20px; padding: 8px 16px; background-color: #007bff; color: white; border: none; border-radius: 6px;">
+        Go to Contact Form
+    </button>
+</a>
     <br><br>
 
     <table border="1" cellpadding="8" cellspacing="0" style="width: 100%; border-collapse: collapse;">
