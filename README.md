@@ -30,7 +30,7 @@ This Laravel project is a complete contact form system with:
 
 ### 🔹 Step 1: Download the Project
 ### 🔹 Step 2: Setup Laravel and dependies
-### 🔹 Step 3: Run composer install command to project folder (because vendor folder is excluded but i provided this folder outside of the project folder)
+### 🔹 Step 3: Run composer install command to project folder (because vendor folder is excluded )
 ### 🔹 Step 4:.env file is already set for database and email Logs
 ### 🔹 Step 5: Create Database in MySQL with the 'Form' name (set DataBase name = Form)
 ### 🔹 Step 6: import Form.sql file to your database(it will import the table and data within it)
